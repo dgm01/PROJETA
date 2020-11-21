@@ -67,7 +67,7 @@
         "show" : true,
         "field" : "DIRECTORY",
         "name" : "FILE_PATH",
-        "value" : "\"E:/Talend/Studio/TOS_DI-Win32-20200219_1130-V7.3.1/workspace_gitcmd/.metadata\"",
+        "value" : "\"E:/Talend/Studio/TOS_DI-Win32-20200219_1130-V7.3.1/workspace_git/.metadata\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -180,7 +180,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS",
-        "value" : "enc:system.encryption.key.v1:Q1do4W5MjxutTctkJtiJ1q6huStmzccx6tfb/r2l",
+        "value" : "enc:system.encryption.key.v1:1dW9Mds3vLNv1GDJUtaJz3Ap/JJ7oa53nj74lf9t",
         "contextMode" : false
       }, {
         "show" : true,
@@ -388,7 +388,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS_IMPLICIT_CONTEXT",
-        "value" : "enc:system.encryption.key.v1:1TkHC9ZQHAtKP6LoQgqLcxWr/ZygrAjEMgY07fgv",
+        "value" : "enc:system.encryption.key.v1:6LTTfJgThRjLKLt/a5dJTuil83FsMcvW8BpGi2+U",
         "contextMode" : false
       }, {
         "show" : true,
